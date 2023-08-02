@@ -1,5 +1,4 @@
 /**********************************************************************
- Name: Cory Wilkie         Class: CSCI3161         Assignment 0
  Run on Mac OSX 10.6.8 using OpenGL libraries from XCode 3.2.6 64-bit
  Compiled in terminal with: gcc -framework GLUT -framework OpenGL a0.c
  **********************************************************************/
